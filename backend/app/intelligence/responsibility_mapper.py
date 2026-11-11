@@ -1,0 +1,1 @@
+"""Responsibility mapping logic."""
